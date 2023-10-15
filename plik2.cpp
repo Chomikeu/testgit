@@ -1,0 +1,1 @@
+//2 dowolny plik *.cpp
